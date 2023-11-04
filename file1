@@ -1,0 +1,3 @@
+function preload() {
+  logo = loadImage("https://avatars.githubusercontent.com/u/65357669?s=200&v=4"); // Pic
+}
